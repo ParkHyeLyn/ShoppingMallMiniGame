@@ -1,0 +1,78 @@
+{
+    "items":[
+        {"name":"Espresso", 
+        "type":"coffee", 
+        "img":"img/coffee1.png"},
+
+        {"name":"Green tea",
+        "type":"tea",
+        "img":"img/tea2.png"},
+
+        {"name":"Roll cake",
+        "type":"bread", 
+        "img":"img/roll-cake.png"},
+
+        {"name":"Cookie", 
+        "type":"bread", 
+        "img":"img/cookies.png"},
+
+        {"name":"Cupcake", 
+        "type":"bread", 
+        "img":"img/cupcake.png"},
+
+        {"name":"Americano", 
+        "type":"coffee", 
+        "img":"img/coffee2.png"},
+
+        
+        {"name":"Caipirinha", 
+        "type":"cocktail", 
+        "img":"img/caipirinha.png"},
+
+        
+        {"name":"Manhattan", 
+        "type":"cocktail", 
+        "img":"img/manhattan.png"},
+
+        {"name":"Pina colada", 
+        "type":"cocktail", 
+        "img":"img/pina-colada.png"},
+
+        {"name":"Chi-chi",
+        "type":"cocktail", 
+        "img":"img/cocktail.png"},
+
+        {"name":"Negroni", 
+        "type":"cocktail", 
+        "img":"img/cocktail2.png"},
+
+        {"name":"Quentaon", 
+        "type":"cocktail", 
+        "img":"img/quentao.png"},
+
+        {"name":"Mocha", 
+        "type":"coffee", 
+        "img":"img/cafemocha.png"},
+
+        {"name":"Lattee", 
+        "type":"coffee", 
+        "img":"img/latte.png"},
+
+        {"name":"Strawberry smoothie", 
+        "type":"fruits", 
+        "img":"img/smoothie1.png"},
+
+        {"name":"Strawberry latte", 
+        "type":"fruits", 
+        "img":"img/strawlatte.png"},
+
+        {"name":"Chai tea", 
+        "type":"tea", 
+        "img":"img/tea3.png"},
+
+        {"name":"Pinkblossom tea", 
+        "type":"tea", 
+        "img":"img/tea1.png"}
+
+    ]
+}
